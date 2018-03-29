@@ -1,0 +1,22 @@
+var music= [
+["Carmina Burana: O Fortuna","David Parry, London Philharmonic Choir, The London Chorus & London Philharmonic Orchestra","The 100 Most Essential Pieces of Classical Music","Classical",162,2010,'audio/01 Carmina Burana_ O Fortuna.m4a'],
+["Canon in D Major","David Parry & London Philharmonic Orchestra","The 100 Most Essential Pieces of Classical Music","Classical",210,2010,'audio/07 Canon in D Major.m4a'],
+["Rinaldo, HWV 7: Lascia ch'io pianga","Yoshikazu Mera, Japan Philharmonic Orchestra & Shigeo Genda","The 100 Most Essential Pieces of Classical Music","Classical",232,2010,'audio/11 Rinaldo, HWV 7_ _Lascia chio pianga_.m4a'],
+["Gymnopédie No. 1","Finghin Collins","The 100 Most Essential Pieces of Classical Music","Classical",220,2010,'audio/26 Gymnopédie No. 1.m4a'],
+["Nocturne No. 2 in E-Flat Major, Op. 9","Finghin Collins","The 100 Most Essential Pieces of Classical Music","Classical",293,2010,'audio/38 Nocturne No. 2 in E-Flat Major, Op. 9.m4a'],
+["Drive Darling (Acoustic Version)","BOY","Mutual Friends Acoustic","Alternative",232,2013,'audio/02 Drive Darling (Acoustic Version).m4a'],
+["Skin (Acoustic Version)","BOY","Mutual Friends Acoustic","Alternative",201,2013,'audio/05 Skin (Acoustic Version).m4a'],
+["Oh Boy (Acoustic Version)","BOY","Mutual Friends Acoustic","Alternative",216,2013,'audio/06 Oh Boy (Acoustic Version).m4a'],
+["Never Seen Such Good Things","Devendra Banhart","Mala","Alternative",193,2013,'audio/Devendra Banhart - Never Seen Such Good Things.m4a'],
+["Hatchet Wound","Devendra Banhart","Mala","Alternative",190,2013,'audio/Hatchet Wound.m4a'],
+["Philosophize In It! Chemicalize With It!","Kishi Bashi","Lighght (Deluxe Version)","Alternative",200,2014,'audio/Kishi Bashi _Philosophize In It! Chemicalize With It!_ (Official Video).m4a'],
+["Feels Like We Only Go Backwards","Tame Impala","Lonerism","Alternative",192,2012,'audio/Tame Impala - Feels Like We Only Go Backwards.m4a'],
+["Keep On Lying","Tame Impala","Lonerism","Alternative",353,2012,'audio/Keep on lying - Tame Impala.m4a'],
+["Hey, Dusty","Dead Combo","Dead Combo","Rock",133,2004,"audio/05 Hey, Dusty.m4a"],
+["Lisboa Mulata","Dead Combo","Lisboa Mulata","Rock",261,2011,'audio/Lisboa Mulata - Official Video.m4a'],
+["Death Drive","Dead Combo","Lisboa Mulata","Rock",167,2011,'audio/Dead Combo - Death Drive.m4a'],
+["Ouvi O Texto Muito Ao Longe (feat. Camané)","Dead Combo","Lisboa Mulata","Rock",253,2011,'audio/Dead Combo & Camané - _Ouvi o texto muito ao longe-_ (Lisboa Mulata).m4a'],
+["Future Starts Slow","The Kills","Blood Pressures","Rock",245,2011,'audio/The Kills - Future Starts Slow.m4a'],
+["Tape Song","The Kills","Midnight Boom","Rock",215,2008,'audio/The Kills - Tape Song (2008).m4a'],
+["Baby Says","The Kills","Baby Says - Single","Rock",268,2011,'audio/The Kills - Baby Says.m4a']
+];
